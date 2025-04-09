@@ -31,51 +31,6 @@
 </ul>
 <p><strong>✅ Starter Combo:</strong> This setup gives you secure access to exchanges, wallets, tracking tools, and educational content all in one go.</p>
 
-<h2>📚 Table of Contents</h2>
-<p>Quick jump to any category below:</p>
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; font-size: 16px;">
-  <a href="#wallets">🔐 Wallets</a>
-  <a href="#nft-tools">🎨 NFTs</a>
-  <a href="#dex-tools">💱 DEX Tools</a>
-  <a href="#tax-tools">📊 Tax</a>
-  <a href="#onchain">📡 On-Chain</a>
-  <a href="#security">🛡️ Security</a>
-  <a href="#bots">🤖 Bots</a>
-  <a href="#jobs">💼 Jobs</a>
-  <a href="#airdrops">🎯 Airdrops</a>
-  <a href="#news">📰 News</a>
-  <a href="#bridges">🌉 Bridges</a>
-  <a href="#privacy">🕶️ Privacy</a>
-  <a href="#dao">⚖️ DAOs</a>
-  <a href="#tools">🧰 No-Code</a>
-  <a href="#gaming">🎮 Gaming</a>
-  <a href="#metaverse">🌐 Metaverse</a>
-  <a href="#protocols">🩺 Protocol Health</a>
-  <a href="#gas">⛽ Gas Tools</a>
-  <a href="#credit">💳 Web3 Credit</a>
-  <a href="#forensics">🔍 Forensics</a>
-  <a href="#api">🔌 APIs</a>
-</div>
-
-<hr />
-
-<h2>🔎 Explore by Use Case</h2>
-<p>Looking for something specific? Use this quick reference to jump to the right section:</p>
-<ul>
-  <li><a href="#wallets">🔐 Wallets</a></li>
-  <li><a href="#nft-tools">🎨 NFT Tools</a></li>
-  <li><a href="#dex-tools">💱 DEX Aggregators</a></li>
-  <li><a href="#tax-tools">📊 Tax & Accounting</a></li>
-  <li><a href="#learning">📚 Learn Crypto</a></li>
-  <li><a href="#bridges">🌉 Cross-Chain Bridges</a></li>
-  <li><a href="#security">🛡️ Security Tools</a></li>
-  <li><a href="#jobs">💼 Crypto Jobs</a></li>
-  <li><a href="#airdrops">🎯 Airdrop Finders</a></li>
-  <li><a href="#privacy">🕶️ Privacy Tools</a></li>
-</ul>
-
-<hr />
-
 
 <h2>📊 Centralized Trading Platforms (CEXs)</h2>
 <ul>
